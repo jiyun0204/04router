@@ -1,70 +1,72 @@
 export default [{
         id : 0,
-        title: "버킷햇",
-        image: "image/hmbkt.jpg",
-        content: "코튼 혼방 소재의 버킷햇. 내부에 스웨트밴드 부착",
-        price:14900
+        title: "엘르 천연다이아 목걸이",
+        image: "image/ellemoc.jpg",
+        content: "시간이 흐를수록 아름답고 고귀한 보석",
+        price:104800 
 },
 {
     id : 1,
-    title: "숄더백",
-    image: "image/hmbag.jpg",
-    content: "인조 가죽 소재의 소형 숄더백",
-    price:29900
+    title: "코알라의 희망 반지",
+    image: "image/coallabanji.jpg",
+    content: "코알라를 지켜주세요 코알라의 희망 컬렉션",
+    price: 12000
+
 },
 {
     id : 2,
-    title: "퀼티드 미니 백",
-    image: "image/hmbagbagi.jpg",
-    content: "얇게 패딩된 인조 가죽 소재의 미니 퀼팅 백",
-    price:19900
+    title: "화이트문 목걸이",
+    image: "image/dalmock.jpg",
+    content: "달 신비로운 빛을 담아내다",
+    price:22050
 },
 {
     id : 3,
-    title: "포인티드 펌프스",
-    image: "image/hmshs0.jpg",
-    content: "인조 가죽 소재의 포인티드 토 펌프스",
-    price:34900
+    title: "에브게니아 천연 러프다이아 반지",
+    image: "image/banji14gold.jpg",
+    content: " 마음을 편안하게 하며 신비롭고 오묘한 청록빛의 블루다이아",
+    price:132000
+
 },
 {
     id : 4,
-    title: "플랫폼 슬리퍼 샌들",
-    image: "image/hmshs1.jpg",
-    content: "밑창 가장자리가 주트 소재로 마감됨",
-    price:49900
+    title: "셀레나 목걸이 세트",
+    image: "image/sellenamock.jpg",
+    content: " 클래식한 디자인 우아한 디테일",
+    price:18000
 },
 {
     id : 5,
-    title: "링 이어링 6쌍 세트",
-    image: "image/hmacc.jpg",
-    content: "다양한 텍스처의 금속 링 귀걸이 세트",
-    price:17900
+    title: "사계 반지세트",
+    image: "image/sagey.jpg",
+    content: "사계절의 고유한 아름다움을 담다",
+    price:14850
 },
 {
     id : 6,
-    title: "선글라스",
-    image: "image/hmaccsun.jpg",
-    content: "캣아이 스타일의 플라스틱 프레임 선글라스",
-    price:14900
+    title: "라벤더블룸3 목걸이",
+    image: "image/ravender.jpg",
+    content: "아름다운 치유의 향기를 그대에게",
+    price:10900
 },
 {
     id : 7,
-    title: "플랫폼 에스파드리유",
-    image: "image/hmshs2.jpg",
-    content: "리넨을 함유한 코튼 캔버스 소재의 플랫폼 에스파드리유",
-    price:39900
+    title: "모노 심플 반지",
+    image: "image/simplebanji.jpg",
+    content: "심플하고 클래식한 디자인으로 다양한 스타일링이 가능한 반지 세트",
+    price:13000
 },
 {
     id : 8,
-    title: "브레이디드 벨트",
-    image: "image/hmbt.jpg",
-    content: "인조 가죽 소재의 와이드한 위빙 벨트",
-    price:29900
+    title: "빙하의눈물3 반지",
+    image: "image/binghabanji.jpg",
+    content: "북극곰 모니터에 빛나는 크리스탈 세팅",
+    price:26800
 },
 {
     id : 9,
-    title: "매듭 헤어밴드",
-    image: "image/hmhbd.jpg",
-    content: "상단에 매듭 장식이 있는 인조 가죽 소재의 헤어밴드",
-    price:14900
+    title: "폴인러브 목걸이",
+    image: "image/heartmock.jpg",
+    content: "하트 모티브의 코인 목걸이는 사랑스러운 무드를 연출",
+    price:11000 
 }]
