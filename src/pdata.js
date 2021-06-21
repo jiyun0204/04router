@@ -3,7 +3,7 @@ export default [{
         title: "엘르 천연다이아 목걸이",
         image: "image/ellemoc.jpg",
         content: "시간이 흐를수록 아름답고 고귀한 보석",
-        price:104800 
+        price:'104800원'
 },
 {
     id : 1,

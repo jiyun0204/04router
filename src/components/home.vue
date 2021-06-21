@@ -11,6 +11,9 @@
         <div class="col-sm-6 col-md-3" v-for="(item,i) in 8" :key="i">
         <img :src="pdata[i].image" alt="" class="w-100">
         <div @click="$emit('pOpen',pdata[i].id)">{{pdata[i].title}}</div>
+        <div @click="$emit('pOpen',pdata[i].id)">{{pdata[i].content}}</div>
+        <div @click="$emit('pOpen',pdata[i].id)">{{pdata[i].price}}</div>
+
         </div>
       </div>
 
