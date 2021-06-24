@@ -20,6 +20,36 @@
     </ul>
   </div>
 </nav>
+<table class="table">
+  <thead>
+    <tr>
+      <th scope="col">No.</th>
+      <th scope="col">고객이름</th>
+      <th scope="col">상품명</th>
+      <th scope="col">수신확인</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">1</th>
+      <td>Mark</td>
+      <td>Otto</td>
+      <td>@mdo</td>
+    </tr>
+    <tr>
+      <th scope="row">2</th>
+      <td>Jacob</td>
+      <td>Thornton</td>
+      <td>@fat</td>
+    </tr>
+    <tr>
+      <th scope="row">3</th>
+      <td>미확인</td>
+      <td>확인</td>
+      <td>미확인</td>
+    </tr>
+  </tbody>
+</table>
 </template>
 
 
