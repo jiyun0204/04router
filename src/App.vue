@@ -56,10 +56,13 @@ export default {
     }
   .nav li{float:left;width:calc(100% / 3);text-align:center;line-height:40px;}
 
-  .pPop{position:fixed; z-index:10; background: #ccc; width: 80%; 
+  /* .pPop{position:fixed; z-index:10; background: #ccc; width: 80%; 
   top:50%;left:50%; transform:translate(-50%,-50%); box-shadow:0 0 10px rgba(0,0,0,0.5);
-  border-radius:10px;padding:20px;}
+  border-radius:10px;padding:20px;} */
 
+.pView{background:#fff;width:70%;position: fixed;top:50%;left:50%;transform:translate(-50%,-50%);
+    z-index:10;box-shadow:0 0 10px rgba(0,0,0,0.5);padding:20px;border-radius:10px
+  }
 
 .fade-enter-from{opacity: 0;}
 .fade-enter-active{transition: 0.5s;}
